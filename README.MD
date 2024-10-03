@@ -1,4 +1,4 @@
-# Synopsis
+# Synopsis LAB 3
 
 The application is a simple Java program that calculates the total number of students, the percentage of pet owners, and the percentage of non-pet owners based on user input.
 
