@@ -4,9 +4,9 @@ The application is a simple Java program that calculates the total number of stu
 
 # Structures
 
-The `MainApp` class, located in -> [MainApp.java](src/main/java/com/petowners/MainApp.java), serves as the entry point of the application. It initializes the application and contains the `main` method which starts the execution of the program. The `MainApp` class typically handles the setup and coordination of various components within the application.
+The `MainApp` class, located in -> [MainApp.java](petownsersdemo/src/main/java/com/petowners/MainApp.java), serves as the entry point of the application. It initializes the application and contains the `main` method which starts the execution of the program. The `MainApp` class typically handles the setup and coordination of various components within the application.
 
-The `Statistics` class  located in -> [Statistics.java](src/main/java/com/petowners/Statistics.java), contains three methods:
+The `Statistics` class  located in -> [Statistics.java](petownsersdemo/src/main/java/com/petowners/Statistics.java), contains three methods:
 - `calculateTotalStudents(int numberOfPetOwners, int numberOfNonPetOwners)`: Calculates the total number of students by adding the number of pet owners and non-pet owners.
 - `calculatePetOwnersPercentage(int numberOfPetOwners, float totalStudents)`: Calculates the percentage of pet owners by dividing the number of pet owners by the total number of students and multiplying by 100.
 - `calculateNonPetOwnersPercentage(int numberOfNonPetOwners, float totalStudents)`: Calculates the percentage of non-pet owners by dividing the number of non-pet owners by the total number of students and multiplying by 100.
